@@ -1,7 +1,7 @@
 # Não sei como eu vim parar aqui 👋
 
 <div>
-  <img alt="my status" height="180em" src="https://github-readme-stats-git-master-sorambrs-projects.vercel.app/api?username=sorambr&repo=github-readme-stats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img alt="my status" height="180em" src="https://github-readme-stats-git-master-sorambrs-projects.vercel.app/api?username=sorambr&repo=github-readme-stats&show_icons=true&theme=dracula&include_all_commits=false&count_private=true" />
   <img alt="my lags" height="180em" src="https://github-readme-stats-git-master-sorambrs-projects.vercel.app/api/top-langs/?username=sorambr&layout=compact&count_private=true&theme=dracula&size_weight=0.5&count_weight=0.5"/>
 </div>
 
