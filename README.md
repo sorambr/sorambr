@@ -10,17 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Dev+em+Lua%2C+JS%2C+HTML+%26+CSS;Editor+de+v%C3%ADdeo+%26+imagem;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![sorambr's GitHub Stats](https://github-readme-stats-iota-five-13.vercel.app/api?username=sorambr&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/sorambr)
-
-</div>
-
 ---
 
 ## 🔥 Streak de Contribuições
